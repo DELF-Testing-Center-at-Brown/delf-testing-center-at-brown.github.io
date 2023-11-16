@@ -4,22 +4,22 @@ title: Registration
 permalink: /registration/
 ---
 
-# Register for the DELF Test
+# DELF – French Certification at Brown
 
-Registering for the DELF test at our center is a straightforward process. Follow the steps below to ensure you are properly enrolled.
+The Department of French and Francophone Studies is offering the DELF at a reduced cost. The DELF exam, regardless of the chosen level (A1, A2, B1, or B2), is composed of 2 parts: oral comprehension, written comprehension and production, and an oral interview.
 
-![Image Placeholder: Image of Registration Process](/assets/images/brown-university.jpg)
+## DELF Pricing and Exam Info
 
-## How to Register
+Below is a recap table of the pricing according to the DELF levels:
 
-1. **Check Eligibility**: Ensure you meet the requirements for the DELF level you wish to attempt.
-2. **Submit Your Application**: Fill out the registration form available on our website.
-3. **Pay the Registration Fee**: Complete the payment process through our secure portal.
+| CEFRL Levels | Cost per candidate at Brown | Written Part Duration | Oral Part Preparation | Oral Part Duration |
+| ------------ | --------------------------- | --------------------- | --------------------- | ------------------ |
+| A1           | $54                         | 1h20                  | 10 min                | 5-7 min            |
+| A2           | $58                         | 1h40                  | 10 min                | 6-8 min            |
+| B1           | $62                         | 1h45                  | 10 min                | 15 min             |
+| B2           | $76                         | 2h30                  | 30 min                | 20 min             |
 
-## Test Day Instructions
+The following table delineates the DELF certification logistics at Brown.
 
-- Arrive at least 30 minutes early.
-- Bring a valid ID and your registration confirmation.
-- Follow all the guidelines provided by the test center.
+To register, please complete the online form and pay the fees by Friday 12/1/2023. Registration is final. No refunds will be issued.
 
-[Explore Resources](/resources/)

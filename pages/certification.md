@@ -1,24 +1,39 @@
 ---
-layout: default
+layout: page
 title: Certification
 permalink: /certification/
 ---
 
-# DELF Certification at Brown
+# DELF – French Certification at Brown
 
-The DELF (Diplôme d'études en langue française) certification is a French language proficiency test for non-native speakers. It is divided into four levels: A1, A2, B1, and B2.
+The Department of French and Francophone Studies opened a DELF Testing Center in Spring 23 to provide French learners the opportunity to certify their language proficiency level.
 
-![Image Placeholder: Image of DELF Certificate](/assets/images/brown-university.jpg)
+## What is DELF?
 
-## Levels of DELF Certification
+DELF stands for Diploma in French Language Studies (`Diplôme d’études en langue française`). This diploma is awarded by the French Ministry of Education to non-French candidates as a certification of their French language proficiency. It is an internationally recognized certification that assesses communication skills in French as a foreign language.
 
-- **DELF A1**: This level recognizes basic knowledge. It is the most basic level at which a language is used.
-- **DELF A2**: This level is based on the same principle but is more challenging.
-- **DELF B1**: At this level, the user becomes independent.
-- **DELF B2**: B2 users have a degree of fluency and spontaneity.
+## DELF Levels
 
-## Preparing for Your Exam
+As a potential DELF candidate, you can choose from four different levels of proficiency, aligned with the Common European Framework of Reference for Languages (CEFRL):
 
-We offer a range of resources and courses to help you prepare for the DELF exams, including practice tests, study guides, and more.
+- DELF A1: Basic user 1
+- DELF A2: Basic user 2
+- DELF B1: Independent user 1
+- DELF B2: Independent user 2
 
-[Register for the DELF Test](/registration/)
+Artistically illustrated by Attila John (RISD student).
+
+## Choosing the Right Level
+
+To select the appropriate DELF test level (A1, A2, B1, or B2), you can consult with your current French instructor, refer to the DELF Resources section, or contact Stéphanie Gaillard, the director of the DELF testing center at Brown (stephanie_gaillard@brown.edu).
+
+## Importance of DELF
+
+The DELF certification can be a necessary credential for professional work or studies in a French/Francophone university. It is also required for immigration purposes in various French-speaking countries.
+
+## Registration Deadlines
+
+- **Mock DELF Exam**: Register [here](#) before Tuesday, 02/28/2023.
+- **DELF Exam**: Register before Friday, 12/1/2023.
+
+For more information regarding cost, potential financial aid, and registration, please visit the [DELF Registration](/registration/) tab.

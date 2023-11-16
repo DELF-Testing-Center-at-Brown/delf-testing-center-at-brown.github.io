@@ -1,25 +1,35 @@
 ---
-layout: default
+layout: page
 title: Resources
 permalink: /resources/
 ---
 
-# DELF Test Preparation Resources
+# DELF Resources
 
-We offer a wide range of resources to help you prepare for the DELF test. From study guides to practice exams, we provide everything you need to succeed.
+## Preparing for the French Certification
 
-![Image Placeholder: Image of Study Materials](/assets/images/brown-university.jpg)
+To best prepare for this French certification, numerous resources are available to assist you.
 
-## Available Resources
+### Engage in French Classes
 
-- **Practice Tests**: Simulate the actual test experience with our practice exams.
-- **Study Guides**: Comprehensive guides covering all aspects of the exam.
-- **Online Tutorials**: Access online learning materials at your own pace.
+- Be fully engaged in your current French class(es) to enhance your understanding and skills.
 
-## Tips for Success
+### Online Resources
 
-- Start preparing early.
-- Practice regularly.
-- Focus on areas where you need improvement.
+- [France Education International (FEI)](https://www.france-education-international.fr/): Offers exams, corrections, candidate manuals, and a YouTube channel showcasing the oral exam and grading.
+- [Data Science Fellow Nuj Naguleswaran’s Web Application](#): Understand the language skills required at each level of the Common European Framework of Reference for Languages (CEFRL).
+- [RFI savoirs](https://savoirs.rfi.fr/): Provides training for listening comprehension tests.
 
-[Learn More About Certification](/certification/)
+### Social Events
+
+- Participate in events offered by the Department of French & Francophone Studies.
+
+### Library Resources
+
+- Visit Rockefeller Library (Carrel Rock B-006) to consult prep books:
+  - ABD DELF – CLÉ international (A1, A2, B1, and B2 levels)
+  - Le DELF 100% réussite – Didier (A1, A2, B1, and B2 levels)
+
+### Practice Daily
+
+- Engage in daily conversations in French with classmates and friends to improve fluency.
