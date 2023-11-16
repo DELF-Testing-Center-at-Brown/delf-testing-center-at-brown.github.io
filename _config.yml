@@ -1,0 +1,26 @@
+title: DELF Testing Center at Brown
+description: The official site for DELF testing and resources at Brown University.
+baseurl: ""  # Leave empty as the site is at the root of the domain
+url: "https://delf-testing-center-at-brown.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Site navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Certification"
+    url: "/certification/"
+  - title: "Registration"
+    url: "/registration/"
+  - title: "Resources"
+    url: "/resources/"
+
+# Add other configurations as needed
